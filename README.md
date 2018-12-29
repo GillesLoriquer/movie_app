@@ -1,6 +1,6 @@
 # MovieApp
-Application android exploitant l'API 'The Movie Database' **themoviedb.org**.
-Concepts mis en oeuvre
+Application android exploitant l'API **themoviedb.org**.
+Concepts mis en oeuvre :
 - RecyclerView & CardView
 - Custom adapter
 - Picasso
@@ -21,5 +21,6 @@ Télécharger le .zip du projet, extraire le contenu dans le répertoire de votr
 - com.squareup.retrofit2:converter-gson:2.4.0
 - com.squareup.picasso:picasso:2.71828
 
+## Captures d'écran
 <img src="./assets/s1.png" width="200">
 <img src="./assets/s2.png" width="200">
