@@ -20,3 +20,6 @@ Télécharger le .zip du projet, extraire le contenu dans le répertoire de votr
 - com.squareup.retrofit2:retrofit:2.5.0
 - com.squareup.retrofit2:converter-gson:2.4.0
 - com.squareup.picasso:picasso:2.71828
+
+<img src="./assets/s1.png" width="200">
+<img src="./assets/s2.png" width="200">
