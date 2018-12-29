@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="app_label">MovieApp</string>
+    <string name="search_title">Chercher</string>
+    <string name="search_hint">Entrer le nom d\'un film…</string>
+    <string name="action_share">Partager</string>
+</resources>
